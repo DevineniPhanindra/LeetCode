@@ -5,8 +5,33 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DevineniPhanindra/LeetCode/tree/master/0001-two-sum) |
+| [1872-stone-game-viii](https://github.com/DevineniPhanindra/LeetCode/tree/master/1872-stone-game-viii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DevineniPhanindra/LeetCode/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/DevineniPhanindra/LeetCode/tree/master/1872-stone-game-viii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/DevineniPhanindra/LeetCode/tree/master/1872-stone-game-viii) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/DevineniPhanindra/LeetCode/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/DevineniPhanindra/LeetCode/tree/master/1872-stone-game-viii) |
+## Game Theory
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/DevineniPhanindra/LeetCode/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/DevineniPhanindra/LeetCode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
