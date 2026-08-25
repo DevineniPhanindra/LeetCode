@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DevineniPhanindra/LeetCode/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/DevineniPhanindra/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DevineniPhanindra/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/DevineniPhanindra/LeetCode/tree/master/1872-stone-game-viii) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/DevineniPhanindra/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/DevineniPhanindra/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
