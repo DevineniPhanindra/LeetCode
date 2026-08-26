@@ -51,8 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/DevineniPhanindra/LeetCode/tree/master/0344-reverse-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DevineniPhanindra/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DevineniPhanindra/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DevineniPhanindra/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
